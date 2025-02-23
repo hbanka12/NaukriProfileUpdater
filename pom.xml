@@ -40,11 +40,12 @@
 
     <!-- TestNG dependency -->
     <dependency>
-      <groupId>org.testng</groupId>
-      <artifactId>testng</artifactId>
-      <version>7.4.0</version>
-      <scope>test</scope>
-    </dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.7.0</version> <!-- You can use a different version if needed -->
+    <scope>test</scope>
+</dependency>
+
 
     <!-- WebDriver Manager for automatic browser driver management -->
     <dependency>
